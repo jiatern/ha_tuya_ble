@@ -33,7 +33,6 @@ from homeassistant.components.tuya.const import (
     TUYA_RESPONSE_CODE,
     TUYA_RESPONSE_MSG,
     TUYA_RESPONSE_SUCCESS,
-    TUYA_SMART_APP,
 )
 
 from .tuya_ble import SERVICE_UUID, TuyaBLEDeviceCredentials
